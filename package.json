@@ -31,5 +31,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/kartikkaushal7/Vite-SSR-boilerplate"
-  }
+  },
+  "license": "MIT",
+  "name": "vite-ssr-setup",
+  "version": "1.0.0"
 }
