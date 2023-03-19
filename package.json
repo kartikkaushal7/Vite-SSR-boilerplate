@@ -27,5 +27,9 @@
   },
   "type": "module",
   "author": "Kartik",
-  "bin": "./bin/cli.js"
+  "bin": "./bin/cli.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kartikkaushal7/Vite-SSR-boilerplate"
+  }
 }
